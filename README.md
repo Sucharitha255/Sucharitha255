@@ -1,8 +1,8 @@
-# Hi, I'm Sucharitha 
+# Hi, I'm Sucharitha 👋
 
 🎓 4th Year B.Tech student specializing in Artificial Intelligence & Machine Learning.
 
- I enjoy building projects, solving problems, and contributing to open-source communities.
+💻 I enjoy building projects, solving problems, and contributing to open-source communities.
 
 🌱 Currently working on:
 
@@ -19,6 +19,4 @@
 * Databases: MySQL
 * Tools: Git, GitHub, VS Code
 
-
-Always learning and building something new .
-
+Always learning and building something new 🚀
