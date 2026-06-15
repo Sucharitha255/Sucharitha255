@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sucharitha 
 
-<!--
-**Sucharitha255/Sucharitha255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year B.Tech student specializing in Artificial Intelligence & Machine Learning.
 
-Here are some ideas to get you started:
+ I enjoy building projects, solving problems, and contributing to open-source communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently working on:
+
+* Open Source Contributions (GSSoC)
+* Web Development
+* Data Structures & Algorithms
+* Improving my GitHub portfolio
+
+## 🛠️ Technologies & Tools
+
+* Languages: C/C++,Python, Java, JavaScript
+* Frontend: HTML, CSS, ReactJS
+* Backend: Node.js
+* Databases: MySQL
+* Tools: Git, GitHub, VS Code
+
+
+Always learning and building something new .
+
